@@ -1,0 +1,21 @@
+body{
+background-color: #B0E0E6; /*Muda a cor de fundo*/
+}
+
+#para1	{
+font-family: Calibri; /*formata o tipo de fonte*/
+font-size: 20; /*formata o tamanho da fonte*/
+color: #00000; /*formata a cor da fonte com código hexadecimal*/
+}
+
+#para2   {
+font-family: Calibri; /*formata o tipo de fonte*/
+font-size: 20; /*formata o tamanho da fonte*/
+color: #00000; /*formata a cor da fonte com código hexadecimal*/
+}
+
+#para3	{
+font-family: Calibri; /*formata o tipo de fonte*/
+font-size: 15; /*formata o tamanho da fonte*/
+color: #00000; /*formata a cor da fonte com código hexadecimal*/
+}
